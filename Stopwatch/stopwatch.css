@@ -1,0 +1,70 @@
+* {
+  background-color: black;
+  color: aqua;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+}
+
+.sw-heading {
+  font-size: 65px;
+}
+
+#seconds {
+  color: red;
+  font-size: 80px;
+}
+
+#tens {
+  color: red;
+  font-size: 80px;
+}
+
+p {
+  color: red;
+  font-size: 80px;
+}
+
+#start {
+  background-color: grey;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#stop {
+  background-color: grey;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#reset {
+  background-color: grey;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#start:hover {
+  background-color: orangered;
+}
+
+#stop:hover {
+  background-color: orangered;
+}
+
+#reset:hover {
+  background-color: orangered;
+}
